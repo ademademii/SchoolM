@@ -1,5 +1,9 @@
 <template>
-    <div>
+    <div class="container">
+        <div class="row">
+
+            <h2>Footer</h2>
+        </div>
         <h2>Footer</h2>
     </div>
 </template>

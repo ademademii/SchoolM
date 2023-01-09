@@ -1,6 +1,6 @@
 <template>
-    <div>
-        <h2>MAIN JS</h2>
+    <div class="container-sm">
+        <h2 class="h1">MAIN JS</h2>
     </div>
 </template>
 
@@ -8,7 +8,7 @@
     
 
 </script>
-
++
 <style scoped>
 
     h2{
